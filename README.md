@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Hi Boss Largo </h1>
+<h1 align="center">im Jieann 👋, Hi Boss Largo </h1>
 <h3 align="center">Sana Magustuhan mo akeng project</h3>
 
 <h3 align="left">Connect with me:</h3>
