@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    
+}
+.my-element {
+  background-color: #ccc;
+  color: black;
+  padding: 20px;
+  /* Smooth transition for all changes over 0.5 seconds */
+  transition: all 0.5s ease;
+}
+
+.my-element:hover {
+  background-color: blue;
+  color: white;
+  cursor: pointer; /* Changes the cursor to a hand icon on hover */
+}
+span{
+    color: blue;
+    font-size: 200%;
+    background-color: rgb(225, 182, 129);
+}
+h1{
+    font-size: 200%;
+    color: blueviolet;
+}
+jiean{
+    color: bisque;
+}
+div{
+    font-size: 300%;
+    text-align: left;
+     width: 600px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+lol{
+    font-size: 200%;
+}
+ul{
+    font-size: 50%;
+    text-align: left;
+}
