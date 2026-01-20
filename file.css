@@ -6,14 +6,14 @@ body{
   background-color: #ccc;
   color: black;
   padding: 20px;
-  /* Smooth transition for all changes over 0.5 seconds */
+  
   transition: all 0.5s ease;
 }
 
 .my-element:hover {
   background-color: blue;
   color: white;
-  cursor: pointer; /* Changes the cursor to a hand icon on hover */
+  cursor: pointer; 
 }
 span{
     color: blue;
@@ -24,8 +24,9 @@ h1{
     font-size: 200%;
     color: blueviolet;
 }
-jiean{
+span.Jieann{
     color: bisque;
+    
 }
 div{
     font-size: 300%;
@@ -41,4 +42,7 @@ lol{
 ul{
     font-size: 50%;
     text-align: left;
+}
+img{
+    border-radius: 90px;
 }

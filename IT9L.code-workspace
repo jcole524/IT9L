@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/html proj"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "IT9L",
+		"liveServer.settings.port": 5501
+	}
+}

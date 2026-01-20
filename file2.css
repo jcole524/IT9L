@@ -1,0 +1,16 @@
+body, html {
+  height: 100%;
+}
+
+.bg {
+  
+  background-image: url("Screenshot\ 2026-01-20\ at\ 9.14.46\ AM.png");
+
+  
+  height: 100%;
+
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
