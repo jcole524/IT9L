@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jieann Paul Cuanan</h1>
-<h3 align="center">A passionate frontend developer from PELEPENS</h3>
+<h1 align="center">Hi 👋, Hi Boss Largo </h1>
+<h3 align="center">Sana Magustuhan mo akeng project</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
